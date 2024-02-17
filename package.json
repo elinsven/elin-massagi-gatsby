@@ -16,6 +16,7 @@
     "typecheck": "tsc --noEmit"
   },
   "dependencies": {
+    "decap-cms-app": "^3.1.1",
     "gatsby": "^5.13.2",
     "gatsby-plugin-decap-cms": "^4.0.4",
     "react": "^18.2.0",
